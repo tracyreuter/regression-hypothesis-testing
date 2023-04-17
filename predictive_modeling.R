@@ -1,5 +1,5 @@
 # predictive modeling
-# testing hypotheses with linear mixed effects regression
+# testing hypotheses with linear mixed effects regression (LMER)
 rm(list=ls(all=T))
 setwd("~/Dropbox/Portfolio/predictive_modeling")
 library(lme4)
